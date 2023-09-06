@@ -1,0 +1,66 @@
+{
+    "T1": [
+        "SAG_T1",
+	    "SAG-T1",
+        "T1MPRAGE-SAG3d-FAST",
+        "T1MPRAGE_SAG3d_FAST",
+        "SAG-3D-T1-HI-RES-TE-2-3",
+        "SAG-T1-MP-RAGE",
+        "T1-Sag-3D-MPRAGE",
+        "AX-3D-T1",
+        "Ax-T1",
+        "AX-T1",
+        "T1_SAG_MPRAGE_grappa3",
+        "T1_SAG_MPRAGE"
+    ],
+    "T2":[
+        "T2TSE-Ax2D",
+        "T2TSE_Ax2D",
+        "AX-MPGR",
+        "AXIAL-T2-FS",
+        "Ax-T2",
+        "AX-FSE-T2",
+        "AX-T2-TSE"
+    ],
+    "DWI": [
+        "ep2d_diff_4scan_trace_p2_TRACEW",
+        "AX-DWI-RESOLVE_TRACEW",
+        "AX-DWI-RESOLVE_TRACEW",
+        "ep2d_diff_4scan_trace_p2_sfs-DWI-double-averages_TRACEW",
+        "ep2d_DIFF_mddw_30_p2-DTI-double-averagess_TRACEW",
+        "AX-Diffusion",
+        "AX-DWI"
+    ],
+    "FL": [
+        "T2FLAIR-Ax2D",
+        "T2FLAIR_Ax2D",
+        "AX-FLAIR",
+        "AXIAL-FLAIR",
+        "Ax-FLAIR"
+    ],
+    "ADC": [
+        "ep2d_diff_4scan_trace_p2_ADC",
+        "AX-DWI-RESOLVE_ADC",
+        "AXIAL-DWI-RESOLVE_ADC",
+        "ep2d_diff_4scan_trace_p2_sfs-DWI-double-averages_ADC",
+        "ep2d_DIFF_mddw_30_p2-DTI-double-averagess_ADC",
+        "Apparent-Diffusion-Coeff",
+        "dADC"
+    ],
+    "eADC":[
+        "ep2d_diff_4scan_trace_p2_EXP",
+        "AX-DWI-RESOLVE_EXP",
+        "ep2d_diff_4scan_trace_p2_EXP",
+        "Exponential-Apparent-Diff",
+	    "Exponential-Apparent-Diffusion-Coefficient",
+        "E-ADC"
+    ],
+    "b0": [
+        "sB0",
+        "sB-0"
+    ],
+    "b1000": [
+        "B1000",
+        "B-1000"
+    ]
+}
